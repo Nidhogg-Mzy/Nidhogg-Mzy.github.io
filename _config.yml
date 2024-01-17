@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zeyuan Meng"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zeyuan Meng"
+description              : &description "I am currently a BEng student of Computer Science at the Hong Kong University of Science and Technology (HKUST). I am interested in machine learning, computer vision, especially in the 3D reconstruction and generation, Neural Rendering field."
+url                      : https://Nidhogg-Mzy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Nidhogg-Mzy/Nidhogg-Mzy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Zeyuan Meng"
+  avatar           : "profile.jpg"
+  bio              : "Working on 3D reconstruction and generation, Neural Rendering."
+  location         : "Hong Kong "
+  employer         : "Neusoft"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AH70aAWGxXTcSpr56c1lX5zfwFDXdCS0daItblXHiQRuJICnFwUo3G54owtE4sw4bqmb2jjhLKjAFlVxDTpqw-84Wfg&user=EpOJmk0AAAAJ"
+  email            : "zmengaf@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Nidhogg-Mzy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/zeyuan-meng-575263220/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
